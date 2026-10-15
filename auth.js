@@ -4,12 +4,13 @@ import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/fir
 
 // Pega aquí la configuración que te dio Firebase en el Paso 1
 const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "tu-proyecto.firebaseapp.com",
-  projectId: "tu-proyecto",
-  storageBucket: "tu-proyecto.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "TU_APP_ID"
+  apiKey: "AIzaSyB5tQsjP22YnCnP1IpEFLlR5tAjG6S9rtc",
+  authDomain: "vercelprueba-76431.firebaseapp.com",
+  projectId: "vercelprueba-76431",
+  storageBucket: "vercelprueba-76431.firebasestorage.app",
+  messagingSenderId: "973247555218",
+  appId: "1:973247555218:web:4eb0858a33ed36af49a84b",
+  measurementId: "G-QFKSW6LNSL"
 };
 
 // Inicializar Firebase
